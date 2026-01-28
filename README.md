@@ -1,10 +1,6 @@
 
 # Thomas McSherry IT/Help Desk Portfolio
 
-This repository contains IT/Help Desk support labs created to demonstrate entry-level help desk skills through documentation and validation. The projects focus on common Tier 1 responsibilities, including identity and access management, user onboarding, troubleshooting, and ticketing workflows.
-
-## Projects
-
 ### Microsoft 365 & Microsoft Entra ID Lab
 Hands-on Microsoft 365 and Entra ID lab simulating help desk tasks, including user onboarding, security group management, multi-factor authentication configuration, Outlook shared mailboxes, and SharePoint permissions. Validated and tested through and end-user perspective, to gain troubleshooting knowledge.
 
