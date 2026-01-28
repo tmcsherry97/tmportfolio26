@@ -1,6 +1,6 @@
 
 # IT Support & Help Desk Portfolio – Thomas McSherry
-[LinkedIn](www.linkedin.com/in/thomas-mcsherry-607b18302)
+[LinkedIn](http://www.linkedin.com/in/thomas-mcsherry-607b18302)
 
 This repository contains IT/Help Desk support labs created to demonstrate entry-level help desk skills through documentation and validation. The projects focus on common Tier 1 responsibilities, including identity and access management, user onboarding, troubleshooting, and ticketing workflows.
 
