@@ -1,6 +1,7 @@
 
 # Thomas McSherry IT/Help Desk Portfolio
 
+
 ### Microsoft 365 & Microsoft Entra ID Lab
 Hands-on Microsoft 365 and Entra ID lab simulating help desk tasks, including user onboarding, security group management, multi-factor authentication configuration, Outlook shared mailboxes, and SharePoint permissions. Validated and tested through and end-user perspective, to gain troubleshooting knowledge.
 
